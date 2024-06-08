@@ -16,6 +16,7 @@ import frFRMessages from './messages/fr_FR.json';
 import hiMessages from './messages/hi.json';
 import itITMessages from './messages/it_IT.json';
 import plMessages from './messages/pl.json';
+import ptBRMessages from './messages/pt_BR.json';
 import ptPTMessages from './messages/pt_PT.json';
 import ruMessages from './messages/ru.json';
 import trTRMessages from './messages/tr_TR.json';
@@ -34,6 +35,7 @@ const appMessages = {
   'tr-tr': trTRMessages,
   'zh-cn': zhcnMessages,
   'pt-pt': ptPTMessages,
+  'pt-br': ptBRMessages,
   uk: ukMessages,
   ru: ruMessages,
   hi: hiMessages,
